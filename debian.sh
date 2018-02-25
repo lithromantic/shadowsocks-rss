@@ -1,4 +1,3 @@
-#This shell is written by Lirici
 #/bin/sh
 apt update -y
 apt upgrade -y
